@@ -1,0 +1,6 @@
+.idea
+target
+*.iml
+abbreviations.txt
+end.log
+start.log
